@@ -8,3 +8,14 @@ body{
     text-decoration: none;
     background-color: #ffffff;
 }
+.packege-color{
+    background-color: #e6d8e1;
+}
+/* .card-color{
+ background-color: #F5F4FA;
+ border-radius: 5px;  
+} */
+.card-bacground{
+    background-color: #3F87F5;
+    height: 500px;
+}
