@@ -8,8 +8,11 @@ body{
     text-decoration: none;
     background-color: #ffffff;
 }
-.packege-color{
-    background-color: #e6d8e1;
+.packege-color-button{
+    background-color: #f5eef2;
+    width: 207px;
+    height: 45px;
+    text-decoration: none;
 }
 /* .card-color{
  background-color: #F5F4FA;
@@ -18,4 +21,15 @@ body{
 .card-bacground{
     background-color: #3F87F5;
     height: 500px;
+    border-radius: 15px;
+}
+.hot-button{
+    background-color: #3F87F5;
+    margin-left: 160px;
+}
+.hot-packege-color-button{
+    background-color: #ffffff;
+    width: 207px;
+    height: 45px;
+    text-decoration: none;
 }
